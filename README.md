@@ -9,10 +9,6 @@
 
 ###
 
-<img align="center" height="150" src="https://cdn.discordapp.com/avatars/1227908670394863639/d1b7f546d28bec0372c69199457094b4.png?size=1024"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
