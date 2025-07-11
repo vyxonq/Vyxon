@@ -1,4 +1,4 @@
-<h2 align="center">What ya doing here EHe</h2>
+<h2 align="center">Vyxonq's Stats</h2>
 
 ###
 
